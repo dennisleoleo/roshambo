@@ -1,0 +1,69 @@
+div{
+	
+}
+button.rock{
+	background-image : url(rock.jpg);
+	background-position : center;
+	background-size : 120px;
+	background-repeat : no-repeat;
+	background-color : black;
+	height : 150px;
+	width : 150px;
+	border-radius : 80px;
+	}
+button.paper{
+	background-image : url(paper.jpg);
+	background-position : center;
+	background-size : 120px;
+	background-repeat : no-repeat;
+	background-color : black;
+	height : 150px;
+	width : 150px;
+	border-radius : 80px;
+	}	
+button.sissors{
+	background-image : url(sissors.jpg);
+	background-position : center;
+	background-size : 120px;
+	background-repeat : no-repeat;
+	background-color : black;
+	height : 150px;
+	width : 150px;
+	border-radius : 80px;
+	}	
+body{
+	background-image : url(rosambo.jpg);
+	background-attachment : fixed;
+	background-repeat : no-repeat;
+	background-size : cover;
+}
+font.player{
+	background-color : black;
+	border-radius : 10px;
+	color : red;
+	font-family : magneto;
+	font-size : 25px;
+	float : left;
+	}
+font.cpu{
+	background-color : black;
+	border-radius : 10px;
+	color : red;
+	font-family : magneto;
+	font-size : 25px;
+	float : right;
+	}	
+heading{
+	background-color : teal;
+	border-radius : 50px;
+	margin-left : 35%;
+	font-size : 70px;
+	color : red;
+	font-family : chiller;
+}	
+button.reload{
+	background-color : black;
+	color : white;
+	border-radius : 15px;
+	height : 50px;
+	}
